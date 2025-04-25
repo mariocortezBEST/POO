@@ -7,7 +7,7 @@ Crear un fork y asegurarse de `NO` marcar la opción ``Copy the main branch only
 Para clonar solamente la rama específica `alumnos` del repositorio se puede utilizar el siguiente comando en la terminal:
 
 ```bash
-git clone --single-branch --branch alumnos https://github.com/gerardorosales2222/POO/
+git clone --single-branch --branch alumnos https://github.com/NOMBRE_DE_USUARIO_DEL_QUE_HIZO_EL_FORK/POO/
 ```
 ## 3.- Realizar los cambios solamente en la carpeta que corresponde a tu grupo:
 Hacer los cambios en el repositorio local.
