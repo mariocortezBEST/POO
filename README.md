@@ -18,13 +18,11 @@ Para mantener la integridad del repositorio y garantizar una dinámica de trabaj
 - La rama `main` es de uso exclusivo para la publicación de contenido oficial.
 
 
-
-
-
-
 >## Actualización de Contenidos  
 >
 >Para facilitar un inicio ágil y efectivo con este repositorio, se ha decidido comenzar trabajando directamente con el tema de **Herencia**, permitiendo que los alumnos exploren este concepto dentro de un entorno de control de versiones.  
 >
 >En los próximos días, se procederá a la carga del material correspondiente a las clases ya impartidas, asegurando así que toda la documentación oficial esté disponible para consulta y referencia. Esta actualización progresiva garantizará que los estudiantes cuenten con los recursos necesarios para fortalecer su aprendizaje y aplicarlos en sus desarrollos dentro de la rama de trabajo asignada.  
 >
+[HERENCIA](https://github.com/gerardorosales2222/POO/tree/main/02%20Herencia) Herencia.
+[INTERFAZ](https://github.com/gerardorosales2222/POO/tree/main/03%20Interfaz) Interfaz.
