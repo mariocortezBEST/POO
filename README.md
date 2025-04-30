@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos - Repositorio Oficial
+# Programación Orientada a Objetos - Repositorio Oficial - Rama Alumnos
 
 ## Propósito  
 Este repositorio constituye la fuente centralizada de información y desarrollo de la materia **Programación Orientada a Objetos**. A través de una estructura organizada, se busca optimizar el acceso a documentación, prácticas y actividades, fomentando un entorno de trabajo colaborativo similar al de una empresa tecnológica.
