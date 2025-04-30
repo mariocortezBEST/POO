@@ -1,0 +1,84 @@
+[33mcommit 5741f909a5b199da1a18021706cce39d04684bcb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32malumnos[m[33m)[m
+Author: EmeliDominguez111 <emelydomingue11@gmail.com>
+Date:   Sun Apr 27 14:23:48 2025 -0300
+
+    subiendo el tpherencia y herencia multiple del grupo 4 Dominguez y Quiroga
+
+[33mcommit 62f72cc6fb0edbff9e2b2c9af44df8ef35182c3b[m[33m ([m[1;31morigin/alumnos[m[33m)[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 22:11:24 2025 -0300
+
+    corrigiendo la información
+
+[33mcommit 22550c0c9d39c50551e5c8dcf5d5d9951480ec1f[m
+Merge: 74ae64c d1520ba
+Author: Gerardo Rosales <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 20:37:51 2025 -0300
+
+    Merge pull request #3 from matias-veyga/alumnos
+    
+    Trabajo herencia
+
+[33mcommit d1520ba15a633c0ad867a33a94d742199572f8bc[m
+Merge: 523030f 74ae64c
+Author: matias-veyga <matuteluna114@gmail.com>
+Date:   Thu Apr 24 20:36:49 2025 -0300
+
+    Merge branch 'gerardorosales2222:alumnos' into alumnos
+
+[33mcommit 74ae64ce9e14f269a7412254c69e69e7e16e6ab5[m
+Merge: e66660b 51c1400
+Author: Gerardo Rosales <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 20:22:07 2025 -0300
+
+    Merge pull request #2 from joelruiz2222/alumnos
+    
+    creando el TP2
+
+[33mcommit 523030f9fdb06bec445cface82d11b08bb229851[m
+Author: matias-veyga <matuteluna114@gmail.com>
+Date:   Thu Apr 24 20:21:31 2025 -0300
+
+    Trabajo herencia
+
+[33mcommit 51c14005522da5a067d3087e8754442a173176c7[m
+Author: joelruiz2222 <joelybarra222@gmail.com>
+Date:   Thu Apr 24 20:07:27 2025 -0300
+
+    creando el TP2
+
+[33mcommit e66660bc225e7325ce5b43598fd2086413ccaff5[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 17:53:38 2025 -0300
+
+    Borrando el tp2 de prueba
+
+[33mcommit 4f56ceae44ea8a192029cd7c8a7bab8c1d2d2692[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 17:40:36 2025 -0300
+
+    Agregando cambios en TP2
+
+[33mcommit d2ac15a85dd9d04161accfe4414607053bf65c81[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 17:21:57 2025 -0300
+
+    subiendo TP2 en nuestra carpeta
+
+[33mcommit 26b01f102e0c52175d948b729027b1a39f124a9e[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 02:14:11 2025 -0300
+
+    Agregando carpetas para alumnos
+
+[33mcommit ecc402808d50967a1ade279410b2772828941733[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Thu Apr 24 01:44:08 2025 -0300
+
+    Agregando carpetas para alumnos
+
+[33mcommit ed61a821a64e14bfb023cf2ff41e91a5f394770c[m
+Author: gerardorosales2222 <gerardorosales2222@gmail.com>
+Date:   Wed Apr 23 18:32:01 2025 -0300
+
+    first commit
