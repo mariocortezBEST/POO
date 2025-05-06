@@ -109,4 +109,4 @@ public class Avion implements Vehiculo {
 
 ![Ejemplo de organización de la actividad](https://github.com/gerardorosales2222/POO/blob/main/03%20Interfaz/InterfazEjemplos.jpg)
 
-> La imagen muestra una posible organización de la actividad y un ejemplo de un posible uso de la interfaz figura como ejemplo 4.
+> La imagen muestra una posible organización de la actividad y un ejemplo de un posible uso de la interfaz `Figura` como ejemplo 4.
