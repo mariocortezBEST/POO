@@ -107,5 +107,6 @@ public class Avion implements Vehiculo {
 
 2.- Creen en grupo un nuevo ejemplo del uso de interfaz y súbanlo a la carpeta de su grupo nombrándolo Ejemplo 4.
 
-A continuación una posible organización de la actividad y un ejemplo de un posible uso de interfaz como ejemplo 4:
+> A continuación una posible organización de la actividad y un ejemplo de un posible uso de interfaz como ejemplo 4:
+
 ![Ejemplo de organización de la actividad](https://github.com/gerardorosales2222/POO/blob/main/03%20Interfaz/InterfazEjemplos.jpg)
